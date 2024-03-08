@@ -1,0 +1,8 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kyhungtran191/dev-blog.git",
+  "author": "justinJSwebdev <trankyhung225@gmail.com>",
+  "license": "MIT"
+}
